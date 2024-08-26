@@ -1,0 +1,1 @@
+An example to understand the Basic Structure and Syntax of C++ programming language. It helps to understand almost all the basics of C++ programming language such as Header file, Namespace statement, Comments, etc.
